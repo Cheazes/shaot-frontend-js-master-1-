@@ -2,8 +2,8 @@ import React from "react";
 import { Route, Routes } from 'react-router-dom';
 import "./App.css";
 import  CompanyPage  from "./components/CompanyPage";
-//import  EmployeePage  from "./components/EmployeePage";
-
+//import  EmployeePage  from "./components/EmployeePage"
+// not forget logen for entry
 const App = () => {
   return (
     <Routes>
